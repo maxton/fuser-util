@@ -1,0 +1,20 @@
+0.1 - 2021-01-25
+- Initial version
+- Simple SMF import / export
+- Convert mid to MidiFileResource
+
+0.2 - 2021-01-25
+- Add option to extract mid from MidiFileResource
+
+0.3 - 2021-01-25
+- Add option to extract MidiFileResources from .uexp files
+
+0.4 - 2021-01-27
+- Add parsing of DTA / DTB for fusion patches & midisong
+- Fix .uexp extraction to support extracting from transition .uexp files
+- Added changelog file
+
+0.5 - 2021-02-15
+- Add data REPL because why not
+- Incorporated ogg2mogg functionality
+- Started using git...
